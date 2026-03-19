@@ -17,14 +17,7 @@ Welcome to the Mini-Hackathon session! This document covers the hackathon brief 
 2. Implement a solution using Claude Code as your primary coding assistant
 3. Document what you built and how Claude Code helped
 
-**Judging Criteria:**
-
-| Criterion | Weighting |
-|-----------|-----------|
-| Use of Claude Code | 30% |
-| Innovation / Creativity | 25% |
-| Functionality | 25% |
-| Presentation quality | 20% |
+**Judging Criteria:** To be communicated in person by your facilitator.
 
 ---
 
